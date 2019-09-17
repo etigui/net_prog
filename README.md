@@ -1,2 +1,2 @@
-# net_prog
+# Init
 Netowrk programmability test
